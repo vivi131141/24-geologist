@@ -1,1 +1,1 @@
-# 24-geologist
+# Geologist
